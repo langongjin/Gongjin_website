@@ -40,6 +40,6 @@ date_format = "January 2006"
   location = "Shenzhen, China"
   date_start = "2011-06-30"
   date_end = "2013-06-30"
-  description = """Design of Embedded Intelligent System"""
+  description = """Embedded Intelligent System"""
 
 +++

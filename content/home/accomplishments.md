@@ -1,6 +1,6 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # Do not modify this line!
+# widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Accomplish&shy;ments"
@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
+  title = "Evolutionary Computing"
   organization = "Coursera"
   certificate_url = "https://www.coursera.org"
   date_start = "2018-10-01"

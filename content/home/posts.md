@@ -6,8 +6,8 @@ widget = "pages"  # Do not modify this line!
 active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Recent Posts"
-subtitle = ""
+#title = "Recent Posts"
+#subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
